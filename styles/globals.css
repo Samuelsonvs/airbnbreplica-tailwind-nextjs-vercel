@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .scroll-snap-none {
+        scroll-snap-type: none;
+    }
+    .scroll-snap-x {
+        scroll-snap-type: x;
+    }
+    .scroll-snap-y {
+        scroll-snap-type: y;
+    }
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+        Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.editscrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.gridcolumn {
+    grid-template-columns: repeat(2, calc(100% - 108px)) 100% !important;
+}

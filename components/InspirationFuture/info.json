@@ -1,0 +1,77 @@
+[
+    {
+        "_id": "0",
+        "head": "Destination for arts & culture",
+        "data": {
+            "Phonix": "Arizona",
+            "Hot Springs":"Arkansas",
+            "Los Angeles":"California",
+            "San Diego":"California",
+            "San Francisco":"California",
+            "Barcelona":"Catalonia",
+            "Prague":"Czechia",
+            "Washington":"District of Columbia",
+            "Keswick":"England"
+        }
+    },
+    {
+        "_id": "1",
+        "head": "Destination for outdoor adventure",
+        "data": {
+            "Lake Martin":"Alabama",
+            "Banff":"Alberta",
+            "Nerja":"Andalucia",
+            "Greer":"Arizona",
+            "Lake Havasu City":"Arizona",
+            "Lake Powell":"Arizona",
+            "North Rim":"Arizona",
+            "Payson":"Arizona",
+            "Pinetop-Lakeside":"Arizona"
+        }
+    },
+    {
+        "_id": "2",
+        "head": "Mountain cabins",
+        "data": {
+            "Mentone":"Alabama",
+            "Sedona":"Arizona",
+            "Helen":"Georgia",
+            "Pine Mountain":"Georgia",
+            "Stone Mountain":"Georgia",
+            "Island Park":"Idaho",
+            "Blue Mountains":"New South Wales",
+            "Asheville":"North Carolina",
+            "Blowing Rock":"North Carolina"
+        }
+    },
+    {
+        "_id": "3",
+        "head": "Beach destinations",
+        "data": {
+            "Dauphin Island":"Alabama",
+            "Fort Morgan":"Alabama",
+            "Gulf Shores":"Alabama",
+            "Bruny Island":"Australia",
+            "Crescent Head":"Australia",
+            "Gerringgong":"Australia",
+            "Hamilton Island":"Australia",
+            "Lancelin":"Australia",
+            "Melbourne Beach":"Australia"
+        }
+    },
+    {
+        "_id": "4",
+        "head": "Popular destinations",
+        "data":{
+            "Canmore":"Alberta",
+            "Benalmadena":"Andalusia",
+            "Marbella":"Andalusia",
+            "Mijas":"Andalusia",
+            "Prescott":"Arizona",
+            "Scottsdale":"Arizona",
+            "Tuscon":"Arizona",
+            "Jasper":"Arkansas",
+            "Mountain View":"Arkansas"
+        }
+    }
+]

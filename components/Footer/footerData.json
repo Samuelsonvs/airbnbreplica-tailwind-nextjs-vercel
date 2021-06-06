@@ -1,0 +1,55 @@
+[
+    {
+        "_id":"0",
+        "head":"ABOUT",
+        "data": [
+            "How Airbnb works",
+            "Newsroom",
+            "Investors",
+            "Airbnb Plus",
+            "Airbnb Luxe",
+            "HotelTonight",
+            "Airbnb for Work",
+            "Made possible for Work",
+            "Careers",
+            "Founders Letter"
+        ]
+    },
+    {
+        "_id":"1",
+        "head":"COMMUNITY",
+        "data": [
+            "Diversity & Belonging",
+            "Against Discrimination",
+            "Accessbility",
+            "Airbnb Associates",
+            "Frontline Stays",
+            "Guest Referrals",
+            "Gift cards",
+            "Airbnb.org"
+        ]
+    },
+    {
+        "_id":"2",
+        "head":"HOST",
+        "data": [
+            "Host your home",
+            "Host an Online Experience",
+            "Host an Experience",
+            "Responsible hosting",
+            "Resource Center",
+            "Community Center"
+        ]
+    },
+    {
+        "_id":"3",
+        "head":"SUPPORT",
+        "data": [
+            "Our COVID-19 Response",
+            "Help Center",
+            "Cancellation options",
+            "Neighborhood Support",
+            "Trust & Safety"
+        ]
+    }
+]
